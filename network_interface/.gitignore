@@ -1,0 +1,11 @@
+*.bundle
+*.sw?
+*~
+.DS_Store
+coverage
+rdoc
+pkg
+tmp
+*.so
+.ruby-gemset
+.ruby-version
